@@ -84,10 +84,6 @@ The recommendation combines:
 
 This makes the recommendation easy to explain to a recruiter or interviewer.
 
-## Suggested interview explanation
-
-> "I built a rule-based dynamic pricing engine because the objective was not to create a complex ML model. I wanted the recommendation to be transparent. The engine increases price when occupancy and demand are strong, adds a weekend/seasonal premium, and keeps the final price within business-defined limits. Streamlit lets a user change those assumptions and immediately see the revenue impact."
-
 ## Project structure
 
 ```text
